@@ -1,0 +1,2 @@
+# SMA
+SMA in C++
